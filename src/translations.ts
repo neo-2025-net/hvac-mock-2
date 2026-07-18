@@ -13,8 +13,8 @@ export const translations = {
       langSwitch: 'English',
     },
     hero: {
-      badge: 'الشريك الموثوق لخدمات التكييف والتبريد',
-      title: 'مؤسسة أعمال الصفا',
+      badge: 'الموثوق لخدمات التكييف والتبريد',
+      title: 'أعمال الصفا',
       titleSub: 'للتكييف والتبريد',
       tagline: 'خبرة ... جودة .. إلتزام',
       subTagline: 'راحة تدوم، هواء أنقى',
@@ -71,7 +71,7 @@ export const translations = {
     },
     about: {
       heading: 'من نحن',
-      body: 'مؤسسة أعمال الصفا للتكييف والتبريد شركة رائدة في مجال صيانة وتركيب وتنظيف أنظمة التكييف والتبريد. انطلقنا بهدف واضح وهو تقديم خدمات احترافية عالية الجودة تجمع بين الخبرة العملية والأمانة في التعامل. نخدم عملاءنا في المنازل والمنشآت التجارية والصناعية بكفاءة واحترافية.',
+      body: 'أعمال الصفا للتكييف والتبريد شركة رائدة في مجال صيانة وتركيب وتنظيف أنظمة التكييف والتبريد. انطلقنا بهدف واضح وهو تقديم خدمات احترافية عالية الجودة تجمع بين الخبرة العملية والأمانة في التعامل. نخدم عملاءنا في المنازل والمنشآت التجارية والصناعية بكفاءة واحترافية.',
       stat3: '24/7',
       stat3Label: 'خدمة متواصلة',
     },
@@ -89,7 +89,7 @@ export const translations = {
       contactLink: 'تواصل معنا',
       contactTitle: 'تواصل معنا',
       phone: '058 158 4123',
-      rights: '© 2026 مؤسسة أعمال الصفا للتكييف والتبريد. جميع الحقوق محفوظة.',
+      rights: '© 2026 أعمال الصفا للتكييف والتبريد. جميع الحقوق محفوظة.',
     },
   },
   en: {
@@ -105,7 +105,7 @@ export const translations = {
     },
     hero: {
       badge: 'Your Trusted Partner for AC & Refrigeration Services',
-      title: 'Al-Safa Establishment',
+      title: 'Establishment',
       titleSub: 'For Air Conditioning & Refrigeration',
       tagline: 'Experience... Quality... Commitment',
       subTagline: 'Lasting Comfort, Cleaner Air',
@@ -162,7 +162,7 @@ export const translations = {
     },
     about: {
       heading: 'About Us',
-      body: 'Al-Safa Establishment for Air Conditioning and Refrigeration is a leading company in AC maintenance, installation, and cleaning. Founded with a clear goal of delivering professional, high-quality services combining practical expertise with integrity. We serve residential, commercial, and industrial clients with efficiency and professionalism.',
+      body: 'Establishment for Air Conditioning and Refrigeration is a leading company in AC maintenance, installation, and cleaning. Founded with a clear goal of delivering professional, high-quality services combining practical expertise with integrity. We serve residential, commercial, and industrial clients with efficiency and professionalism.',
       stat3: '24/7',
       stat3Label: 'Support',
     },
@@ -180,7 +180,7 @@ export const translations = {
       contactLink: 'Contact',
       contactTitle: 'Contact Us',
       phone: '058 158 4123',
-      rights: '© 2026 Al-Safa Establishment for AC & Refrigeration. All rights reserved.',
+      rights: '© 2026 Establishment for AC & Refrigeration. All rights reserved.',
     },
   },
 };

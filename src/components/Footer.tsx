@@ -88,7 +88,7 @@ export default function Footer({ lang }: FooterProps) {
               <div className="flex items-center gap-3">
                 <MessageCircle className="w-4 h-4 text-[#25D366] flex-shrink-0" />
                 <a
-                  href="https://wa.me/966581584123"
+                  href="https://wa.me/1234567890"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-cairo text-white/70 hover:text-[#25D366] text-sm transition-colors font-cairo"

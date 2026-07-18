@@ -117,7 +117,7 @@ export default function ContactCTA({ lang }: ContactCTAProps) {
               </a>
 
               <a
-                href="https://wa.me/966581584123"
+                href="https://wa.me/1234567890"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-3 w-full bg-[#25D366] hover:bg-[#20c45c] text-white font-bold py-4 px-6 rounded-2xl text-lg transition-all duration-200 shadow-xl shadow-green-500/20 hover:-translate-y-0.5 font-cairo"

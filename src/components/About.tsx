@@ -36,7 +36,7 @@ export default function About({ lang }: AboutProps) {
                 // src="https://images.pexels.com/photos/5490235/pexels-photo-5490235.jpeg?auto=compress&cs=tinysrgb&w=800"
                 src="https://images.pexels.com/photos/16600100/pexels-photo-16600100.jpeg?auto=compress&cs=tinysrgb&w=800"
                 
-                alt={lang === 'ar' ? 'فنيو مؤسسة أعمال الصفا' : 'Al-Safa HVAC Technicians'}
+                alt={lang === 'ar' ? 'أعمال الصفا' : 'HVAC Technicians'}
                 className="w-full h-[480px] object-cover"
                 loading="lazy"
               />
